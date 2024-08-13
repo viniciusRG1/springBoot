@@ -1,45 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2b717a5-7015-42fa-8478-199db9875e65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/springBoot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springBoot/demo-rest-api/src/main/java/com/garagem/demo_rest_api/DemoRestApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot/demo-rest-api/src/main/java/com/garagem/demo_rest_api/DemoRestApiApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb8611e7-1977-4f6b-9d75-64152bc22545" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springBoot" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2kGDK0ypIdIJC9x8F5nXHjBLmUw" />
+  <component name="ProjectId" id="2kGDSUhBsY4A0Mx1GKIvOdIfjwE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.demo-rest-api [org.springframework.boot:spring-boot-maven-plugin:3.3.2:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Cliente/IdeaProjects/Springboot",
-    "project.structure.last.edited": "Global Libraries",
+    "last_opened_file_path": "C:/Users/Cliente",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2b717a5-7015-42fa-8478-199db9875e65" name="Changes" comment="" />
-      <created>1722900951736</created>
+      <changelist id="cb8611e7-1977-4f6b-9d75-64152bc22545" name="Changes" comment="" />
+      <created>1722901020056</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1722900951736</updated>
+      <updated>1722901020056</updated>
     </task>
     <servers />
   </component>
